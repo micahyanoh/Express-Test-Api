@@ -1,0 +1,16 @@
+{
+  "name": "express-test-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "start":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "Express": "^3.0.1"
+  }
+}
